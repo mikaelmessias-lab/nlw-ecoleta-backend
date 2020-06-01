@@ -1,6 +1,6 @@
-# Título do projeto
+# NLW Ecoleta - Backend
 
-Escreva um parágrafo descrevendo o projeto.
+O Ecoleta é um projeto desenvolvido durante a primeira edição da Next Level Week voltado para fins ecológicos, servindo como uma conexão entre empresas e entidades que coletam resíduos orgânicos ou inorgânicos às pessoas que precisam descartar esses resíduos.
 
 ## Começando
 
@@ -40,7 +40,8 @@ Escreva notas adicionais sobre como fazer o deploy desse projeto para execução
 
 Ferramentas utilizadas para construção do sistema.
 
-- [Titulo](link) - Descrição breve da ferramenta
+- [Node.js](https://nodejs.org) - Ambiente de execução JavaScript server-side.
+- [Express](https://expressjs.com/) - Framework para criação de API's do Node.js.
 
 ## Autores
 
@@ -48,8 +49,9 @@ Ferramentas utilizadas para construção do sistema.
 
 ## Licença
 
-Esse projeto está licenciado sob a licença **XXX** - veja o arquivo LICENSE.md para mais detalhes.
+Esse projeto está licenciado sob a licença **GNU v3.0** - veja o arquivo LICENSE.md para mais detalhes.
 
 ## Agradecimentos
 
 - [Billie Thompson](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- [Rocketseat](https://rocketseat.com.br)
