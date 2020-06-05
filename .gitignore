@@ -127,3 +127,6 @@ dist
 
 # SQLite Database file
 *.sqlite
+
+uploads/points/*
+!uploads/points/.gitkeep
